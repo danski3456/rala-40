@@ -89,7 +89,7 @@ ripe.atlas.sagan==1.2.1
 scamper-pywarts==0.2.1
 scandir==1.5
 scipy==0.19.1
-Scrapy==1.4.0
+Scrapy==2.6.1
 seaborn==0.8
 service-identity==17.0.0
 simplegeneric==0.8.1
